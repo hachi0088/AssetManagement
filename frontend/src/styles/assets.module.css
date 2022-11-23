@@ -1,0 +1,12 @@
+.content_wrapper {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.chart {
+  width: 800px;
+}
+
+.table {
+  width: 920;
+}
